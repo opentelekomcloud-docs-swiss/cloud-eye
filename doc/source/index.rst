@@ -1,3 +1,8 @@
-=========================================
-Welcome to the documentation of cloud-eye
-=========================================
+Cloud Eye
+=========
+
+.. directive_wrapper::
+   :class: container-sbv
+
+   .. service_card::
+      :service_type: ces
