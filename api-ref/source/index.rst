@@ -1,3 +1,15 @@
-=========================================
-Welcome to the documentation of cloud-eye
-=========================================
+=========================
+Cloud Eye - API Reference
+=========================
+
+.. toctree::
+   :maxdepth: 1
+
+   before_you_start/index
+   api_overview
+   calling_apis/index
+   getting_started
+   api_description/index
+   common_parameters/index
+   appendix/index
+   change_history
