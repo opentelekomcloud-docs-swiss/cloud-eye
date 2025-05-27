@@ -8,5 +8,6 @@ Cloud Eye is a multi-dimensional monitoring platform that monitors your resource
 
    .. service_card::
       :service_type: ces
+      :cloud_environment: swiss
       :umn: This document describes Cloud Eye, helping you quickly create and properly use the service.
       :api-ref: This document describes application programming interfaces (APIs) of Cloud Eye and provides API parameter description and example values.
